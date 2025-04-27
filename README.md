@@ -27,7 +27,7 @@ This is a simple, responsive AI Safety Incident Dashboard built using React, Typ
 
 ## Installation
 
-1. Download the zip file and extract the file
+1. git clone https://github.com/santhosh3311/ai-safety-dashboard.git
 
 2. Navigate to the project directory:
     ```bash
