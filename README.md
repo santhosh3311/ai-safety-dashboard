@@ -1,4 +1,4 @@
-AI Safety Incident Dashboard
+# AI Safety Incident Dashboard
 This is a simple, responsive AI Safety Incident Dashboard built using React, TypeScript, CSS, and Vite. It allows users to view, filter, sort, and report new AI safety incidents with clean styling and basic input validation.
 
 ## Features
@@ -27,11 +27,14 @@ This is a simple, responsive AI Safety Incident Dashboard built using React, Typ
 
 ## Installation
 
-1. git clone https://github.com/santhosh3311/ai-safety-dashboard.git
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/santhosh3311/ai-safety-dashboard.git
+    ```
 
 2. Navigate to the project directory:
     ```bash
-    cd ai-safety-dashboard
+    cd ai-safety-incident-dashboard
     ```
 
 3. Install the dependencies:
@@ -46,3 +49,5 @@ This is a simple, responsive AI Safety Incident Dashboard built using React, Typ
 
 5. ```bash
    Go to http://localhost:5173/ to view the local development server running the project.
+   ```
+
